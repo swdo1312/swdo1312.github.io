@@ -23,6 +23,7 @@ tags: [GEOS-Chem]
 
 이번 메뉴얼에서는 GEOS-Chem nested-grid 옵션을 사용하여 모델을 모의하는 방법을 정리하였다. 기본적인 GEOS-Chem 모의는 이전 게시글에 정리하였으므로, [여기](https://swdo1312.github.io/GEOS-Chem_Tutor/)를 참조.
 GEOS-Chem nested-grid 옵션에 대한 자세한 내용을 알고 싶다면 [GEOS-Chem doc](https://geos-chem.readthedocs.io/en/stable/supplemental-guides/nested-grid-guide.html)와 [GEOS-Chem wiki](https://wiki.seas.harvard.edu/geos-chem/index.php/Setting_up_GEOS-Chem_nested_grid_simulations)를 참조하길 바란다.
+
 <br/>
 
 네스팅을 사용하여 GEOS-Chem 모델을 수행하는데는 두가지 과정이 필요하다.
@@ -42,6 +43,7 @@ GEOS-Chem 에서 nested-grid 사용시 추천되는 영역의 범위는 [여기]
 ****
 
 
+---
 
 ## 모델 및 자료 가져오기
 
