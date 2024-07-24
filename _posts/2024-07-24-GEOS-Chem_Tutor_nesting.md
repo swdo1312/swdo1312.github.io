@@ -1,7 +1,7 @@
 ---
 
 layout: posts
-title: GEOS-Chem 모델 모의 해보기 (nesting)
+title: GEOS-Chem 모델 모의 해보기 (nested-grid)
 author: 도세원, 심창섭, 서정빈
 categories: []
 tags: [GEOS-Chem]
