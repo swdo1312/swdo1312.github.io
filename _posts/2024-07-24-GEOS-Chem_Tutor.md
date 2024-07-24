@@ -766,7 +766,7 @@ GEOS-Chem Classic 모의 순서는 :
 
 ### 7-1. “HEMCO 데이터 유무 확인” 
 
-아래와 같이 --dryrun 명령어를 사용하여 GEOS-Chem Classic 실행 파일을 실행한다. 여기서 " | tee" 옵션을 통해 출력 결과를 log.dryrun 에 저장한다.
+아래와 같이 --dryrun 명령어를 사용하여 GEOS-Chem Classic 실행 파일을 실행한다. 여기서  |tee 옵션을 통해 출력 결과를 log.dryrun 에 저장한다.
 
 ``` bash
 ./gcclassic --dryrun |tee log.dryrun
