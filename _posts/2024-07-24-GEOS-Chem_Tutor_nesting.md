@@ -21,20 +21,23 @@ tags: [GEOS-Chem]
 
 ## 소 개
 
-이번 메뉴얼에서는 GEOS-Chem nesting 옵션을 설명하는 내용을 정리하였다. 기본적인 GEOS-Chem 모의는 [여기](https://swdo1312.github.io/GEOS-Chem_Tutor/)를 참조. 네스팅을 사용하여 GEOS-Chem 모델을 수행하는데는 두가지 과정이 필요하다.
+이번 메뉴얼에서는 GEOS-Chem nested-grid 옵션을 사용하여 모델을 모의하는 방법을 정리하였다. 기본적인 GEOS-Chem 모의는 이전 게시글에 정리하였으므로, [여기](https://swdo1312.github.io/GEOS-Chem_Tutor/)를 참조.
 
-**1. global 도메인에서 모델 수행**
+<br/>
 
-**2. nested-grid 도메인에서 모델 수행**
+네스팅을 사용하여 GEOS-Chem 모델을 수행하는데는 두가지 과정이 필요하다.
+
+* **1. global 도메인에서 모델 수행**
+
+* **2. nested-grid 도메인에서 모델 수행**
 
 <br/>
 
 
-
-nested-grid 에서 사용될 추천되는 영역의 범위는 [여기](https://wiki.seas.harvard.edu/geos-chem/index.php/FlexGrid#0.5.C2.B0_x_0.625.C2.B0_nested_Asia)를 참고하길 바란다. 이번 메뉴얼에서 사용될 영역은 아래 그림과 같다.
+GEOS-Chem 에서 nested-grid 사용시 추천되는 영역의 범위는 [여기](https://wiki.seas.harvard.edu/geos-chem/index.php/FlexGrid#0.5.C2.B0_x_0.625.C2.B0_nested_Asia)를 참고하길 바란다. 이번 메뉴얼에서는 한반도가 포함된 영역을 사용할 것이며, 영역은 아래 그림과 같다.
 
 ![img](../assets/images/GEOS-Chem_Tutor_nesting/MERRA2_05x0625_AS.png)
-
+<출처 : https://wiki.seas.harvard.edu/geos-chem/index.php/GEOS-Chem_horizontal_grids#0.5_x_0.625_AS_nested_grid >
 ****
 
 
