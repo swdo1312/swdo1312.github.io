@@ -39,7 +39,6 @@ GEOS-Chem 에서 nested-grid 사용시 추천되는 영역의 범위는 [여기]
 ![img](../assets/images/GEOS-Chem_Tutor_nesting/MERRA2_05x0625_AS.png) 
 <br/>
 <출처 : https://wiki.seas.harvard.edu/geos-chem/index.php/GEOS-Chem_horizontal_grids#0.5_x_0.625_AS_nested_grid >
-****
 
 
 ---
