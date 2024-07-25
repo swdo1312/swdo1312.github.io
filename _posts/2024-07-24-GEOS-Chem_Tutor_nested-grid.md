@@ -563,7 +563,7 @@ GEOS-Chem Classic 모의 순서는 :
 
 
 
-
+![img](../assets/images/GEOS-Chem_Tutor_nesting/GEOSChem.SpeciesConc.20190101_0000z.nc4_ncview.png) 
 
 ---
 
