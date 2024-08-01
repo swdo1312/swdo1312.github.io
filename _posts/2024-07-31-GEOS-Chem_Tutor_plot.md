@@ -20,9 +20,7 @@ tags: [GEOS-Chem]
 
 ## 소 개
 
-이번 메뉴얼에서는 GEOS-Chem 으로 모의된 결과를 시각화하는 내용을 정리하였다. python을 기반으로 하여 시각화를 진행할 예정이다. 
-
-가장 기본적인 python과 GEOS-Chem 에서 가장 대표적으로 사용되는 python toolkit (GCPy) 으로  나누어 설명하고자 한다.
+이번 메뉴얼에서는 GEOS-Chem 으로 모의된 결과를 시각화하는 내용을 정리하였다. python을 기반으로 하여 시각화를 진행할 예정이다. 가장 기본적인 python과 GEOS-Chem 에서 가장 대표적으로 사용되는 python toolkit (GCPy) 으로  나누어 설명하고자 한다.
 
 
 
@@ -33,10 +31,6 @@ tags: [GEOS-Chem]
 <br/>
 
 
-
-
-
-![img](../assets/images/GEOS-Chem_Tutor_nesting/MERRA2_05x0625_AS.png)
 
 ****
 
