@@ -1,7 +1,7 @@
 ---
 
 layout: posts
-title: GEOS-Chem 모델 모의 해보기 (nesting)
+title: GEOS-Chem 모델 시각화
 author: 도세원, 심창섭, 서정빈
 categories: []
 tags: [GEOS-Chem]
@@ -11,8 +11,6 @@ tags: [GEOS-Chem]
 
 <p style="text-align:right">작성 : 도세원 (한국환경연구원, KEI)<br/> 
 & 심창섭 (한국환경연구원, KEI)<br/>& 서정빈 (한국환경연구원, KEI)<br/>2024년 7월 31일</p>
-
-
 
 
 
