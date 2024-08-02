@@ -199,7 +199,9 @@ plt.show()
 
 ![img](../assets/images/GEOS-Chem_Tutor_plot/test_global.png)
 
-![img](../assets/images/GEOS-Chem_Tutor_plot/test_nested.png)
+![img](../assets/images/GEOS-Chem_Tutor_plot/test_nested_america.png)
+
+![img](../assets/images/GEOS-Chem_Tutor_plot/test_nested_china.png)
 
 
 ---
